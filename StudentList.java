@@ -16,7 +16,7 @@ public  class StudentList {
 	}
 
 	public static void main(String[] args) {
-//my name is Habibur Rahman
+//my name is habibi 
 //amar nam pipra 
 		CONSTANT constants = new CONSTANT();
 
